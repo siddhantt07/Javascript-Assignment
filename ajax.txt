@@ -1,5 +1,0 @@
-Your entered details are :<br>
-First name : Siddhant<br>
-Last Name : Bhatia<br>
-Email : siddhant.bhatia@mavenwave.com<br>
-Contact No. : 9068325453
